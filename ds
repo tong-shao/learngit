@@ -1,0 +1,72 @@
+*   [33mcommit 6f7df1a3b013b2dcb695eec127c8402a68477170[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 0ef0528 f583a60
+[31m|[m [32m|[m Author: sunny <stshaotong@126.com>
+[31m|[m [32m|[m Date:   Wed Sep 2 23:27:07 2020 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict fixed
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit f583a60804e6c96f06991f3fcfd906399ed650e7[m[33m ([m[1;32mf[m[33m)[m
+[31m|[m [32m|[m Author: sunny <stshaotong@126.com>
+[31m|[m [32m|[m Date:   Wed Sep 2 23:22:17 2020 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     and simple
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 0ef0528bb1f2f1bab73c7d70a3929b49686553e4[m
+[32m|[m[32m/[m  Author: sunny <stshaotong@126.com>
+[32m|[m   Date:   Wed Sep 2 23:23:42 2020 +0800
+[32m|[m   
+[32m|[m       &&simple
+[32m|[m 
+* [33mcommit c4df33bc3e63673060fd08f00a7407162764f3b9[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 23:18:14 2020 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m 
+* [33mcommit bc10979ae093ab31b1104c14495b533548538cac[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 14:24:11 2020 +0800
+[32m|[m 
+[32m|[m     remove test
+[32m|[m 
+* [33mcommit db65138cd5f86cd42f239cbf5224a6f1f28f342d[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 14:23:26 2020 +0800
+[32m|[m 
+[32m|[m     again test
+[32m|[m 
+* [33mcommit 2715324f64dee9d7bc800e46af4fc636f42a469b[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 14:20:57 2020 +0800
+[32m|[m 
+[32m|[m     remove test
+[32m|[m 
+* [33mcommit 7ea347d4899fabebbb676556e74f0876f507c02d[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 14:20:09 2020 +0800
+[32m|[m 
+[32m|[m     add test
+[32m|[m 
+* [33mcommit c7da8b9b3d6af3c25f01c50cbfe3a256ed103fda[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 14:10:50 2020 +0800
+[32m|[m 
+[32m|[m     remove test
+[32m|[m 
+* [33mcommit 15a440b82c9893d45cb9b311824b8734f863862e[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 14:09:34 2020 +0800
+[32m|[m 
+[32m|[m     add test
+[32m|[m 
+* [33mcommit 8ea62c720640063c6f5185bc56f26be100de1244[m
+[32m|[m Author: sunny <stshaotong@126.com>
+[32m|[m Date:   Wed Sep 2 13:36:49 2020 +0800
+[32m|[m 
+[32m|[m     add distributed
+[32m|[m 
+* [33mcommit 7c0311220642dd9186255350212fe2cd39a876b2[m
+  Author: sunny <stshaotong@126.com>
+  Date:   Wed Sep 2 13:30:36 2020 +0800
+  
+      wrote a readme file
